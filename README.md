@@ -46,7 +46,7 @@ Non-functional requirements focus on **system performance and usability**. Examp
 
 Use Case Diagrams visually represent system interactions.
 
-![Use Case Diagram](alx-booking-uc.drawio.png)
+![Use Case Diagram]( alx-booking-uc.png)
 
 ## Acceptance Criteria
 
