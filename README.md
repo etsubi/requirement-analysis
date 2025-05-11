@@ -4,4 +4,8 @@ This repository explores requirement analysis in software development, covering 
 
 Requirement Analysis is the process of identifying, documenting, and validating the needs and expectations of stakeholders for a software system. It is an essential step in the **Software Development Life Cycle (SDLC)** that ensures clear communication between developers and stakeholders, helping to create functional and efficient software.
 
+### Importance of Requirement Analysis:
+- Prevents **miscommunication** between stakeholders and developers.
+- Helps **define the scope** of a project before development starts.
+- Reduces **costs** by catching issues early before implementation.
 
